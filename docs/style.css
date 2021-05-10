@@ -4,7 +4,20 @@ body {
     padding: 0;
 }
 
-.menu {
+.menu .banner {
+    background-color: black;
+    text-align: center;
+    padding-top:1rem;
+    padding-bottom: 2px;
+    
+}
+
+.menu .banner img {
+
+    width: 80px;
+    
+    
+    
     
 }
 
@@ -13,5 +26,14 @@ body {
 }
 
 .footer {
+    background-color:#a3cfd6;
+    text-align: center;
+    color: #35394c;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family:'Times New Roman', Times, serif
+
+
+
 
 }
