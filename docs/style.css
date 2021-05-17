@@ -16,13 +16,93 @@ body {
     width: 80px;
 }
 
+.menu .wrapper {
+    max-width: flex;
+    margin: auto;
+
+}
+
+.menu .row {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.menu .row .link {
+    flex-basis: 100px;
+    flex-shrink: o;
+    flex-grow: 1;
+
+    border: 1px solid white;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    background-color:#a3cfd6;
+    color: black;
+    text-decoration: none;
+    font-size: 16x;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+
+.row .link:hover {
+
+    background-color: white;
+    color:black;
+}
+
+
+
+
 .page {
 
 }
 
-.page.home table{
+.page .home {
+
+    width: 500px;
+    margin: auto;
     text-align: center;
+    
 }
+.page .home .Angebot {
+    margin: 50px;
+}
+
+
+.page .home .wrapper {
+
+    max-width: flex;
+    margin: auto;
+
+}
+
+.page .home .wrapper .row {
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+.page .home .open {
+    margin-left: 50px;
+    margin-bottom: 50px;
+    background-color: lightpink;
+
+}
+
+.page .home .Ort {
+    margin-left: 100px;
+    margin-bottom: 50px;
+    background-color: lightsalmon;
+
+}
+
+
 
 .footer {
     background-color:#a3cfd6;
@@ -30,5 +110,5 @@ body {
     color: #35394c;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-family:'Times New Roman', Times, serif
+    font-family:'Times New Roman';
 }
