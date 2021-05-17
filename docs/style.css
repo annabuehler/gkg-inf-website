@@ -9,6 +9,8 @@ body {
     text-align: center;
     padding-top:1rem;
     padding-bottom: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
 }
 
 .menu .banner img {
