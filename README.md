@@ -1,6 +1,7 @@
 # Forensische Praxis
 
-Kurzbeschreibung Webseite. Was ist der Inhalt?
+Unsere Website ist eine gerichtsmedizinische Praxis. Diese Praxis besteht aus einer Mediziberin, einer Juristin und einem MPA/ Sekretär. Die Idee hinter der praxis ist, dass man bei einem Unfall oder häuslicher Gewallt unsere Praxis aufsuchen kann, wo eine medizinische Versorgung und Dokumentation sowie die rechtliche Stütze vorhanden ist.
+Diese Praxisidee kam zustande da wir so unsere individuellen beruflichen Ziele vereibaren können und uns während dieses Arbeitsauftrages näher mit den von uns verfolgten Berufszielen auseinandersetzen können. Als uns diese Idee kam war es auch schnell kar wie wir die Website strukturieren wollen und welche einzelnen Seiten wir passend finden. 
 
 ## Projektplan
 
@@ -8,11 +9,15 @@ Detaillierte Beschreibung der geplanten Funktionalität.
 
 ### Hauptseite
 
-Skizze mit Beschreibung.
+Unsere Haupseite ist die home Seite. Dort ist einen Zusammenfassung unseres Angebots zu finden, sowie auch unsere Öffnungszeiten und der Ort unserer Praxis.
 
 ### Unterseite 1
 
-Skizze mit Beschreibung.
+Auf der ersten Unterseite sind Informationen über unsere Praxis zu finden.
+
+### Unterseite 2
+
+Auf der zweiten Unterseite sind alle arbeitenden der Imberpraxis zu finden.
 
 ### Impressum
 
@@ -26,8 +31,8 @@ Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
 
 | Deadline | Name | Beschreibung |
 | --- | --- | --- |
-| 01.01.2021 | Vorname Name | Das wird gemacht |
-| 02.01.2021 | Vorname Name | Das wird gemacht |
+| 10.05.2021 | Vorname Name | Das wird gemacht |
+| 17.05.2021 | Vorname Name | Das wird gemacht |
 | 03.01.2021 | Vorname Name | Das wird gemacht |
 | 04.01.2021 | Vorname Name | Das wird gemacht |
 | 05.01.2021 | Vorname Name | Das wird gemacht |
