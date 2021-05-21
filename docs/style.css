@@ -1,4 +1,9 @@
 /* Remove the standard margin/padding of the html body */
+
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -7,139 +12,160 @@ body {
 .menu .banner {
     background-color: black;
     text-align: center;
-    padding-top:1rem;
+    padding-top: 1rem;
     padding-bottom: 2px;
     margin-left: 1px;
     margin-right: 1px;
 }
 
 .menu .banner img {
-
     width: 80px;
 }
 
 .menu .wrapper {
     max-width: flex;
     margin: auto;
-
 }
 
 .menu .row {
     display: flex;
     flex-wrap: wrap;
-
 }
 
 .menu .row .link {
     flex-basis: 100px;
     flex-shrink: o;
     flex-grow: 1;
-
     border: 1px solid white;
-
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 5px;
     padding-right: 5px;
-
-    background-color:#a3cfd6;
+    background-color: #a3cfd6;
     color: black;
     text-decoration: none;
     font-size: 16x;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
 
-.home .title {
-    font-size: 20px;
-    padding: 10px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+/*__________________________________________________________________*/
 
+.title {
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+}
 
 .row .link:hover {
-
     background-color: white;
-    color:black;
+    color: black;
 }
 
-
-.page .home .homebild img {
+.top-image-container {
+    display: flex;
     width: 100%;
-    position: relative;
-    margin: auto;
-    flex-wrap: nowrap;
-
-
+    justify-content: stretch;
+    text-align: left;
 }
 
+.top-image {
+    flex-wrap: nowrap;
+    flex: 1 1 0%;
+    flex-flow: center;
+    margin: auto;
+}
 
-.page .home {
+.top-image img {
+    height: 170px;
+    min-width: 100%;
+    object-fit: cover;
+    vertical-align: bottom;
+}
 
-    width: 500px;
+.home-textbox-container {
+    display: flex;
+}
+
+.home-textbox-item {
+    flex-flow: center;
+    margin: 30px;
+}
+
+.home-textbox-item p {
+    text-align: justify;
+}
+
+.kontakt-place-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.kontakt-place-item {
+    flex-flow: center;
+    margin: 30px;
+}
+
+.kontakt-message-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.comment-input input {
+    border-radius: 6px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.home {
+    /*width: 500px;*/
     margin: auto;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
-}
-.page .home .Angebot {
-    margin: 50px;
-    
 }
 
+.home .Angebot {
+    margin: 50px;
+}
 
 .home .homebild {
     display: flex;
-    flex-wrap: wrap;
-
-    flex-basis: 160px;
+    margin: auto;
+    flex-basis: 100px;
     flex-shrink: o;
     flex-grow: 1;
-
     border: 1px solid white;
-    size: 1000rem;
-
-
-
 }
 
+/*_______________________________________________________*/
 
-
-
-   
-
-.flex-container{
+.flex-container {
     display: flex;
-    
 }
 
-
-
-
+.opening-hours td {}
 
 .flex-item {
     margin: auto;
     margin-left: 10px;
     margin-right: 10px;
     text-align: center;
-
 }
- .flex-item img {
+
+.flex-item img {
     width: 150px;
- }
-    
- .flex-item .table {
+}
+
+.flex-item .table {
     width: 250px;
- }
+}
 
-
- 
+/*___________________________________________________________*/
 
 .footer {
-    background-color:#a3cfd6;
+    background-color: #a3cfd6;
     text-align: center;
     color: #35394c;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
