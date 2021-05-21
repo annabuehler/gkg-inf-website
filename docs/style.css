@@ -88,42 +88,34 @@ body {
 }
 
 
-
-/* .page .home .wrapper {
-
-    max-width: flex;
-    margin: auto;
-
-}
-
-.page .home .wrapper .row {
+.home .homebild {
     display: flex;
     flex-wrap: wrap;
-    
+
+    flex-basis: 160px;
+    flex-shrink: o;
+    flex-grow: 1;
+
+    border: 1px solid white;
+    size: 1000rem;
+
+
 
 }
 
-.page .home .open {
-    display: flex;
-    margin-left: 50px;
-    margin-bottom: 50px;
-    background-color: lightpink;
-    
-}
 
-.page .home .Ort {
-    
-    margin-left: 100px;
-    margin-bottom: 50px;
-    background-color: lightsalmon;
 
-} */
 
+   
 
 .flex-container{
     display: flex;
     
 }
+
+
+
+
 
 .flex-item {
     margin: auto;
