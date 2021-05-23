@@ -9,6 +9,30 @@ body {
     padding: 0;
 }
 
+h1 {
+    font-size: 25pt;
+    font-weight: normal;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 16pt;
+    font-weight: normal;
+    padding: 10px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 16pt;
+    font-weight: normal;
+    padding: 10px; 
+}
+
+/*********************************************************************
+**********            Menu                                  ********** 
+**********************************************************************/
+
 .menu .banner {
     background-color: black;
     text-align: center;
@@ -34,7 +58,7 @@ body {
 
 .menu .row .link {
     flex-basis: 100px;
-    flex-shrink: o;
+    flex-shrink: 0;
     flex-grow: 1;
     border: 1px solid white;
     padding-top: 5px;
@@ -48,18 +72,40 @@ body {
     text-align: center;
 }
 
-/*__________________________________________________________________*/
-
-.title {
-    font-size: 30px;
-    padding: 10px;
-    text-align: center;
-}
-
 .row .link:hover {
     background-color: white;
     color: black;
 }
+
+/*********************************************************************
+**********            Common Page settings                  ********** 
+**********************************************************************/
+
+
+.media-container {
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+    margin: 10vw;
+}
+
+.media-container .content {
+    flex: 1;
+    margin: auto;
+    max-width: 33vw;
+    text-align: justify;   
+}
+
+.media-container .image img {
+    max-width: 33vw;
+    margin: auto;
+    
+ }
+
+
+/*********************************************************************
+**********            Home page                             ********** 
+**********************************************************************/
 
 .top-image-container {
     display: flex;
@@ -79,88 +125,40 @@ body {
     height: 170px;
     min-width: 100%;
     object-fit: cover;
-    vertical-align: bottom;
+    vertical-align: middle;
 }
 
-.home-textbox-container {
-    display: flex;
-}
 
-.home-textbox-item {
-    flex-flow: center;
-    margin: 30px;
-}
+/*********************************************************************
+**********            Kontakt page                          ********** 
+**********************************************************************/
 
-.home-textbox-item p {
-    text-align: justify;
-}
-
-.kontakt-place-container {
-    display: flex;
-    width: 100%;
-    justify-content: space-evenly;
-}
-
-.kontakt-place-item {
-    flex-flow: center;
-    margin: 30px;
-}
-
-.kontakt-message-container {
-    display: flex;
-    width: 100%;
-    justify-content: space-evenly;
-}
-
-.comment-input input {
-    border-radius: 6px;
-    border-width: 1px;
-    border-style: solid;
-}
-
-.home {
-    /*width: 500px;*/
+.media-container .image iframe {
+    max-width: 40vw;
     margin: auto;
-    text-align: center;
+ }
+
+
+/*********************************************************************
+**********            Praxis page                          ********** 
+**********************************************************************/
+
+
+
+
+/*********************************************************************
+**********            Team page                          ********** 
+**********************************************************************/
+
+
+.team .media-container img {
+    max-height: 50vh;
 }
 
-.home .Angebot {
-    margin: 50px;
-}
+/*********************************************************************
+**********            Footer                                ********** 
+**********************************************************************/
 
-.home .homebild {
-    display: flex;
-    margin: auto;
-    flex-basis: 100px;
-    flex-shrink: o;
-    flex-grow: 1;
-    border: 1px solid white;
-}
-
-/*_______________________________________________________*/
-
-.flex-container {
-    display: flex;
-}
-
-.opening-hours td {}
-
-.flex-item {
-    margin: auto;
-    margin-left: 10px;
-    margin-right: 10px;
-    text-align: center;
-}
-
-.flex-item img {
-    width: 150px;
-}
-
-.flex-item .table {
-    width: 250px;
-}
-
-/*___________________________________________________________*/
 
 .footer {
     background-color: #a3cfd6;
