@@ -1,114 +1,182 @@
 /* Remove the standard margin/padding of the html body */
+
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 body {
     margin: 0;
     padding: 0;
 }
 
+h1 {
+    font-size: 25pt;
+    font-weight: normal;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 16pt;
+    font-weight: normal;
+    padding: 10px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 16pt;
+    font-weight: normal;
+    padding: 10px; 
+}
+
+h4 {
+    font-size: 14pt;
+    font-weight: normal;
+    text-align: center;
+}
+
+/*********************************************************************
+**********            Menu                                  ********** 
+**********************************************************************/
+
 .menu .banner {
     background-color: black;
     text-align: center;
-    padding-top:1rem;
+    padding-top: 1rem;
     padding-bottom: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
 }
 
 .menu .banner img {
-
     width: 80px;
 }
 
 .menu .wrapper {
     max-width: flex;
     margin: auto;
-
 }
 
 .menu .row {
     display: flex;
     flex-wrap: wrap;
-
 }
 
 .menu .row .link {
     flex-basis: 100px;
-    flex-shrink: o;
+    flex-shrink: 0;
     flex-grow: 1;
-
     border: 1px solid white;
-
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 5px;
     padding-right: 5px;
-
-    background-color:#a3cfd6;
+    background-color: #a3cfd6;
     color: black;
     text-decoration: none;
     font-size: 16x;
-    font-family: 'Times New Roman';
     text-align: center;
 }
-
 
 .row .link:hover {
-
     background-color: white;
-    color:black;
+    color: black;
 }
 
+/*********************************************************************
+**********            Common Page settings                  ********** 
+**********************************************************************/
 
 
-
-.page {
-
+.media-container {
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+    margin: 10vw;
 }
 
-.page .home {
-
-    width: 500px;
+.media-container .content {
+    flex: 1;
     margin: auto;
-    text-align: center;
+    max-width: 33vw;
+    text-align: justify;   
+}
+
+.media-container .image img {
+    max-width: 33vw;
+    margin: auto;
     
-}
-.page .home .Angebot {
-    margin: 50px;
-}
+ }
 
 
-.page .home .wrapper {
+/*********************************************************************
+**********            Home page                             ********** 
+**********************************************************************/
 
-    max-width: flex;
-    margin: auto;
-
-}
-
-.page .home .wrapper .row {
+.top-image-container {
     display: flex;
-    flex-wrap: wrap;
-    
-
+    width: 100%;
+    justify-content: stretch;
+    text-align: left;
 }
 
-.page .home .open {
-    margin-left: 50px;
-    margin-bottom: 50px;
-    background-color: lightpink;
-
+.top-image {
+    flex-wrap: nowrap;
+    flex: 1 1 0%;
+    flex-flow: center;
+    margin: auto;
 }
 
-.page .home .Ort {
-    margin-left: 100px;
-    margin-bottom: 50px;
-    background-color: lightsalmon;
-
+.top-image img {
+    height: 170px;
+    min-width: 100%;
+    object-fit: cover;
+    vertical-align: middle;
 }
 
+
+/*********************************************************************
+**********            Kontakt page                          ********** 
+**********************************************************************/
+
+.media-container .image iframe {
+    max-width: 40vw;
+    margin: auto;
+ }
+
+.team .media-container .content {
+    flex: 1;
+    margin: auto;
+    max-width: 40vw;
+    text-align: justify; 
+ }  
+/*********************************************************************
+**********            Praxis page                          ********** 
+**********************************************************************/
+
+
+
+
+/*********************************************************************
+**********            Team page                          ********** 
+**********************************************************************/
+
+
+.team .media-container img {
+    max-height: 50vh;
+}
+
+
+
+/*********************************************************************
+**********            Footer                                ********** 
+**********************************************************************/
 
 
 .footer {
-    background-color:#a3cfd6;
+    background-color: #a3cfd6;
     text-align: center;
     color: #35394c;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-family:'Times New Roman';
 }
