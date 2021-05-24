@@ -10,19 +10,19 @@ Allgemein war es uns wichtig einheitliche Schriftarten und Schriftgrössen zu ve
  Auf der ganzen Website werden auch nur zwei Titel verwendet. Dies dient zur einheitlichen Gestalltung.  
 
 ### Hauptseite - home
-
+![home](bilder/home.JPG)
 
 
 ### Unterseite - praxis
-
+![praxis](bilder/praxis.JPG)
 
 
 ### Unterseite - team
-
+![team](bilder/team.JPG)
 
 
 ### Unterseite - kontakt 
-
+![kontakt](bilder/kontakt.JPG)
 
 
 ## Zeitplan
@@ -48,18 +48,23 @@ Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
 Detaillierte Beschreibung der umgesetzten Webseite.
 
 ### Hauptseite
+![homepage](bilder/Homepage.jpg)
+![homepage 2](bilder/Homepage2.jpg)
 
-Screenshot mit Beschreibung.
 
 ### Unterseite 1
+![Behandlungszimmer Mia](bilder/BehandlungszimmerMia.png)
+![Behandlungszimmer Anna](bilder/BehandlungszimmerAnna.png)
 
-Screenshot mit Beschreibung.
+### Unterseite 2
+![Lebenslauf Mia](bilder/LebenslaufMia.png)
+![Lebenslauf Anna](bilder/LebenslaufAnna.png)
+![Lebenslauf Umut](bilder/LebenslaufUmut.png)
 
-### Impressum
 
-Screenshot mit Beschreibung.
+### Unterseite 3
+![Kontakt](bilder/Kontakt.png)
 
-usw...
 
 ## Zusammenfassung
 
