@@ -12,22 +12,24 @@ Allgemein war es uns wichtig einheitliche Schriftarten und Schriftgrössen zu ve
 ### Hauptseite - home
 ![home](bilder/home.JPG)
 
+Auf der Hauptseite war es für uns in erster Linie wichtig, dass der Besucher der Weebsite unserer Praxis auf den ersten Blick erfährt welche Dienstleitungen wir anbieten. Deshabl war uns einen einfache und übersichtliche Gliederung wichtig. Wir haben uns auch entschieden die News auf die Hauptseite zu nehmen damit sie für jeden schnell ersichtlich sind. Uns war es wichtig das man direkt einen Eiblick in unsere Praxis erhällt, daher haben wir drei Bilder unserer Praxis oben eingefügt. 
 
-### Unterseite - praxis
+### Unterseite 1 - praxis
 ![praxis](bilder/praxis.JPG)
 
 
-### Unterseite - team
+
+### Unterseite 2 - team
 ![team](bilder/team.JPG)
 
 
-### Unterseite - kontakt 
+### Unterseite 3 - kontakt 
 ![kontakt](bilder/kontakt.JPG)
 
 
 ## Zeitplan
 
-Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
+
 
 | Deadline | Name | Beschreibung |
 | --- | --- | --- |
@@ -35,12 +37,13 @@ Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
 | 09.05.2021 | Anna Bühler und Mia Hollenstein| Zeitplan geschrieben|
 | 10.05.2021 | Anna Bühler und Mia Hollenstein | Planung des Aufbaus der Website |
 | 10.05.2021 |  Anna Bühler und Mia Hollenstein| haeder und footer gemacht, Logo gestalltet , Öffnungszeiten hinzugefügt|
-| 17.05.2021 | Anna Bühler |Menue mit hover- Effekt, Anwendung flex-Box, Formatierung |
+| 17.05.2021 | Anna Bühler |Menu mit hover- Effekt, Anwendung flex-Box, Formatierung |
 | 17.05.2021 | Mia Hollenstein | Text für home Seite geschrieben, begonnen mit der Bilderwahl, Kurzbeschreibung der Website im readme geschrieben |
 | 21.05.2021 | Anna Bühler und Mia Hollenstein | home- und kontaktseite formatiert |
 | 23.05.2021 | Anna Bühler | praxis- und teamseite formatiert, css strukturiert und kommentiert || 04.01.2021 | Vorname Name | Das wird gemacht |
 | 23.05.2021 | Mia Hollenstein | readme weitergeschrieben |
-| 24.05.2021 | Anna Bühler und Mia Hollenstein | Bilder eingefügt, Text fertig geschrieben und eingefügt auf allen Seiten, readme fertiggestellt  |
+| 24.05.2021 | Anna Bühler und Mia Hollenstein | Bilder eingefügt, Text fertig geschrieben und eingefügt auf allen Seiten, an readme  weitergearbeitet  |
+| 27.05.2021| Anna Bühler und Mia Hollenstein| readme fertiggestellt|
 
 
 ## Umsetzung
