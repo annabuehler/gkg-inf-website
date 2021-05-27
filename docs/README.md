@@ -17,14 +17,16 @@ Auf der Hauptseite war es für uns in erster Linie wichtig, dass der Besucher de
 ### Unterseite 1 - praxis
 ![praxis](bilder/praxis.JPG)
 
-
+Uns war es wichtig das alle Seiten eine einheitliche Struktur haben weswegen wir auch auf der ersten Unterseite Bild und Text nebeneinander angeordnet haben. Wir wollten unseren Websitebesuchern einen einblick in die einzelnen Behandlungszimmer gewähren. 
 
 ### Unterseite 2 - team
 ![team](bilder/team.JPG)
 
+Auf der zweiten Unterseite wollten wir das ganze Praxisteam vorstellen. Jedoch wollten wir hier einen einheitlicherer Anordnung von Bild und Text umsetzen. Das die Besucher der Website undsere Namen mit einem Gesicht verbinden könne, bevor sie in unsere Praxis kommen, war für uns unentberlich. 
 
 ### Unterseite 3 - kontakt 
 ![kontakt](bilder/kontakt.JPG)
+Auf der Kontaktseite wollten wir zuerst Telefonnummer und Emailadresse notieren. Nach kurzen überlegen haben wir uns aber dazu entschieden die Daten in den footer zu schreiben, da sie somit von jeder Seite direkt sichtbar sind. Daher kann man auf der Kontaktseite nur unsere Öffnungszeiten und unsere Adresse sehen.
 
 
 ## Zeitplan
@@ -47,48 +49,33 @@ Auf der Hauptseite war es für uns in erster Linie wichtig, dass der Besucher de
 
 
 ## Umsetzung
+Da wir von Anfangan wussten das alle Seiten gleich aufgebaut werden, haben wir für alle Bilder einen Kontainer erstellt und für alle Texte. Dort haben wir auch zum Beispiel marign und justify-content definiert. Ausserdem haben wir verschiedene Titelarten definiert. Auch die grössen der Bilder haben wir einheitlich zugeschnitten.
+Das Logo, welches auf jeder Seite im Banner zu finden ist, haben wir selbst entworfen und designt. Unsere Website haben wir an die Farbe des Logos angepasst. Deshalb ist unsere website in den farben Blau, Schwarz und Weiss. Die Innenarchitektur enthällt vorallem Holzelemente. 
 
-Detaillierte Beschreibung der umgesetzten Webseite.
-
-### Hauptseite
+### Hauptseite - home
 ![homepage](bilder/Homepage.jpg)
 ![homepage 2](bilder/Homepage2.jpg)
 
+Die oben zu sehenden Bilder passen sich der Fenstergrösse an. Dafür haben wir eine flex-Box erstellt und `justify-content: streach;` verwendet. Für unser Angebot und die News haben wir die oben erwähnten Kontainer (flex-Boxen) verwendet. Im Text zum Angebot erfährt man eine kleine Zusammenfassung über die Dienstleitungen unserer Praxis. Das Bild fanden wir sehr passend, da in dieser Auslage die Angebote der Lektüren in unserem Wartebereich zu sehen sind. Da unserer Praxis gerade umgezogen ist haben wir uns etschieden ein Bild unseres neuen Standortes zu wählen, da dies der Inhalt unserer News ist.
 
-### Unterseite 1
+### Unterseite 1 - praxis
 ![Behandlungszimmer Mia](bilder/BehandlungszimmerMia.png)
 ![Behandlungszimmer Anna](bilder/BehandlungszimmerAnna.png)
 
-### Unterseite 2
+Auf der ersten Unterseite stellen wir unsere Behandlungszimmer vor. Die Bilder sollen einladend wirkend und zusammen mit dem Text aber auch informativ sein. Im Text zum juristischen Büro erwähnen wir das Anwaltsgeheimnis und gehen auf die Arbeit unserer Anwältin (Mia Hollenstin) ein. Im Text zum medizinischen Behandlungszimmer gehen wir auf die Arbeit underer Rechtsmedizinerin (Anna Bühler) ein. 
+
+### Unterseite 2 - team
 ![Lebenslauf Mia](bilder/LebenslaufMia.png)
 ![Lebenslauf Anna](bilder/LebenslaufAnna.png)
 ![Lebenslauf Umut](bilder/LebenslaufUmut.png)
 
+Auf der dritten Unterseite stellen wir das Praxisteam vor. Jedes Praxismitglied wird durch einen kurze Beschreibung vorgestellt und einem Bild. In der Beschreibung sind unsere Ausbildungen sowie Weiterbildungen und Kompetenzen zu finden. Dazu haben wir recherchiert und passende Angaben verwendet. Diese haben wir dann, für einen gute Übersicht, mit Stichpunkten untereinander geschrieben. 
 
-### Unterseite 3
+### Unterseite 3 - kontakt
 ![Kontakt](bilder/Kontakt.png)
 
+Auf der letzten Unterseite haben wir uns Überlegt eine interaktive Karte zu verwenden die direkt zu unserem Standort führt. Dafür haben wir auf Google Maps den Link kopiert und eingefügt. Ausserdem stehen unserer Öffnungszeiten, welche wir im html Dokument mithilfe einer Tabelle formatiert haben.
 
 ## Zusammenfassung
 
-Zusammenfassung mit Vergleich zwischen Planung und Umsetzung. Was hat geklappt und was nicht? Konnte der Zeitplan eingehalten werden? Konnten die Skizzen umgesetzt werden?
-
----
-
-Tipps zum README-Markdown:
-- Eine Liste kann man einfach so schreiben
-- Mit Rechtsklick auf `README.md`, `Open Preview` kann man eine Live-Vorschau des Textes sehen 
-- So schreibt man *kursiv*, **fett** und beides ***fettkursiv***
-- So kann man ein Bild einfügen: ![Bildtext](link-zum-bild.jpg)
-- So kann man einen Link einfügen [Linktext](https://google.com)
-
-So kann `einzeiliger Code` eingefügt werden.
-
-So kann mehrzeiliger Code eingefügt werden.
-```
-.test {
-    background-color: blue;
-}
-```
-
-- Weitere Hilfen gibt es hier: https://guides.github.com/features/mastering-markdown
+Schlussendlich stimmen Skizze und Endergebnis sehr gut überein. Jedoch haben wir uns bei der Planung auch schon Gedanken gemacht welche man gut umsetzen konnten, sadass wir später nicht auf allzugrosse Probleme treffen. Der Zeitplan wurde während des programmierens direkt eingehallten, da wir gemerkt haben das wir zuerst die Website programmieren müssen bevor wir richtig mit dem readme starten konnten. Zeitlich ist es dann schlussendlich aber doch sehr gut aufgegangen. 
