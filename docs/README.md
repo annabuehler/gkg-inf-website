@@ -10,22 +10,22 @@ Allgemein war es uns wichtig einheitliche Schriftarten und Schriftgrössen zu ve
  Auf der ganzen Website werden auch nur zwei Titelgrössen verwendet. Dies dient zur einheitlichen Gestalltung.  
 
 ### Hauptseite - home
-![home](docs/bilder/home.JPG)
+![home](bilder/home.JPG)
 
 Auf der Hauptseite war es für uns in erster Linie wichtig, dass der Besucher der Weebsite unserer Praxis auf den ersten Blick erfährt welche Dienstleistungen wir anbieten. Deshalb war uns eine einfache und übersichtliche Gliederung wichtig. Wir haben uns auch entschieden die News auf die Hauptseite zu nehmen damit sie für jeden schnell ersichtlich sind. Uns war es wichtig, dass man direkt einen Einblick in unsere Praxis erhält, daher haben wir drei Bilder unserer Praxis oben eingefügt. 
 
 ### Unterseite 1 - praxis
-![praxis](docs/bilder/praxis.JPG)
+![praxis](bilder/praxis.JPG)
 
 Uns war es wichtig, dass alle Seiten eine einheitliche Struktur haben, weswegen wir auch auf der ersten Unterseite Bild und Text nebeneinander angeordnet haben. Wir wollten unseren Websitebesuchern einen Einblick in die einzelnen Behandlungszimmer gewähren. 
 
 ### Unterseite 2 - team
-![team](docs/bilder/team.JPG)
+![team](bilder/team.JPG)
 
 Auf der zweiten Unterseite wollten wir das ganze Praxisteam vorstellen. Jedoch wollten wir hier eine einheitlichere Anordnung von Bild und Text umsetzen. Dass die Besucher der Website unsere Namen mit einem Gesicht verbinden können, bevor sie in unsere Praxis kommen, war für uns unentbehrlich. 
 
 ### Unterseite 3 - kontakt 
-![kontakt](docs/bilder/kontakt.JPG)
+![kontakt](bilder/kontakt.JPG)
 Auf der Kontaktseite wollten wir zuerst Telefonnummer und Emailadresse notieren. Nach kurzem Überlegen haben wir uns aber dazu entschieden die Daten in den footer zu schreiben, da sie somit von jeder Seite direkt sichtbar sind. Daher kann man auf der Kontaktseite nur unsere Öffnungszeiten und unsere Adresse sehen.
 
 
@@ -53,26 +53,26 @@ Da wir von Anfang an wussten, dass alle Seiten gleich aufgebaut werden, haben wi
 Das Logo, welches auf jeder Seite im Banner zu finden ist, haben wir selbst entworfen und designt. Unsere Website haben wir an die Farbe des Logos angepasst. Deshalb ist unsere Website in den Farben Blau, Schwarz und Weiss. Die Innenarchitektur enthält vor allem Holzelemente. 
 
 ### Hauptseite - home
-![homepage](docs/bilder/Homepage.png)
-![homepage 2](docs/bilder/Homepage2.png)
+![homepage](bilder/Homepage.png)
+![homepage 2](bilder/Homepage2.png)
 
 Die oben zu sehenden Bilder passen sich der Fenstergrösse an. Dafür haben wir eine flex-Box erstellt und `justify-content: streach;` verwendet. Für unser Angebot und die News haben wir die oben erwähnten Kontainer (flex-Boxen) verwendet. Im Text zum Angebot erfährt man eine kleine Zusammenfassung über die Dienstleitungen unserer Praxis. Das Bild fanden wir sehr passend, da in dieser Auslage die Angebote der Lektüren in unserem Wartebereich zu sehen sind. Da unserer Praxis gerade umgezogen ist haben wir uns entschieden ein Bild unseres neuen Standortes zu wählen, da dies der Inhalt unserer News ist.
 
 ### Unterseite 1 - praxis
-![Behandlungszimmer Mia](docs/bilder/BehandlungszimmerMia.png)
-![Behandlungszimmer Anna](docs/bilder/BehandlungszimmerAnna.png)
+![Behandlungszimmer Mia](bilder/BehandlungszimmerMia.png)
+![Behandlungszimmer Anna](bilder/BehandlungszimmerAnna.png)
 
 Auf der ersten Unterseite stellen wir unsere Behandlungszimmer vor. Die Bilder sollen einladend wirken und zusammen mit dem Text aber auch informativ sein. Im Text zum juristischen Büro erwähnen wir das Anwaltsgeheimnis und gehen auf die Arbeit unserer Anwältin (Mia Hollenstein) ein. Im Text zum medizinischen Behandlungszimmer gehen wir auf die Arbeit unserer Rechtsmedizinerin (Anna Bühler) ein. 
 
 ### Unterseite 2 - team
-![Lebenslauf Mia](docs/bilder/LebenslaufMia.png)
-![Lebenslauf Anna](docs/bilder/LebenslaufAnna.png)
-![Lebenslauf Umut](docs/bilder/LebenslaufUmut.png)
+![Lebenslauf Mia](bilder/LebenslaufMia.png)
+![Lebenslauf Anna](bilder/LebenslaufAnna.png)
+![Lebenslauf Umut](bilder/LebenslaufUmut.png)
 
 Auf der dritten Unterseite stellen wir das Praxisteam vor. Jedes Praxismitglied wird durch eine kurze Beschreibung vorgestellt und einem Bild. In der Beschreibung sind unsere Ausbildungen, sowie Weiterbildungen und Kompetenzen zu finden. Dazu haben wir recherchiert und passende Angaben verwendet. Diese haben wir dann, für eine gute Übersicht, mit Stichpunkten untereinander geschrieben. 
 
 ### Unterseite 3 - kontakt
-![Kontakt](docs/bilder/Kontakt.png)
+![Kontakt](bilder/Kontakt.png)
 
 Auf der letzten Unterseite haben wir uns überlegt eine interaktive Karte zu verwenden die direkt zu unserem Standort führt. Dafür haben wir auf Google Maps den Link kopiert und eingefügt. Ausserdem stehen unsere Öffnungszeiten, welche wir im html Dokument mithilfe einer Tabelle formatiert haben, auf der dritten Unterseite.
 
